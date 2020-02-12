@@ -33,7 +33,7 @@ about: Pokud máš sponzora a přes Pyvec má jít smlouva a faktura.
 
 
 
-<!--
-  Otočení sponzorských peněz nepodléhá schvalování výborem.
-  Žádost přímo zpracuje predseda/pokladník spolku.
--->
+---
+
+_Otočení sponzorských peněz nepodléhá schvalování výborem._
+_Žádost přímo zpracuje predseda/pokladník spolku._
