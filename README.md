@@ -17,6 +17,8 @@ Zvaž, která možnost se nejvíce hodí pro tvůj případ a podle toho na [zá
 
 Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá a zahlasuje, zda grant přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců 👍👎](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
 
+---
+
 
 #### Proč?
 
