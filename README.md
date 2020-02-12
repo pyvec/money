@@ -1,6 +1,8 @@
 <h1 align="center">💰 MONEY 💰</h1>
 <h3 align="center">Evidence grantů české Python komunity (<a href="#english">English ↓</a>)</h3>
 
+![Illustration](https://docs.pyvec.org/_images/money.svg)
+
 Pokud organizuješ nebo vytváříš něco, co souvisí s [programovacím jazykem Python](https://python.cz), je velká pravděpodobnost, že ti [Pyvec](https://pyvec.org/) může pomoci, ať už finančně [nebo jinak](https://docs.pyvec.org/operations/support.html). Z hlediska finanční podpory Pyvec nabízí tři služby:
 
 - [Otočení sponzorských peněz](https://docs.pyvec.org/operations/support-money.html#otoceni-sponzorskych-penez)
