@@ -1,6 +1,6 @@
 ---
 name: Grant
-about: Standardní proplacení výdajů
+about: Standardní proplacení výdajů.
 
 ---
 

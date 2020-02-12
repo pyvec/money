@@ -1,6 +1,6 @@
 ---
 name: Otočení sponzorských peněz
-about: Pokud máš sponzora a přes Pyvec má jít smlouva a faktura
+about: Pokud máš sponzora a přes Pyvec má jít smlouva a faktura.
 
 ---
 

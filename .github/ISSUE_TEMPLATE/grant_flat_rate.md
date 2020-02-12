@@ -1,6 +1,6 @@
 ---
 name: Paušální grant
-about: Proplacení více drobných výdajů při dlouhodobé činnosti
+about: Proplacení více drobných výdajů při dlouhodobé činnosti.
 
 ---
 
