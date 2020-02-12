@@ -11,7 +11,14 @@ about: Standardní proplacení výdajů.
   Otázky jsou ohraničeny hvězdičkami. Odpovědi napiš do místa pod ně.
 -->
 
-**Otázka 1**
+**Kdo jste?**
 
 
-**Otázka 2**
+**Kolik potřebujete? (klidně i jen odhad nebo rozmezí)**
+
+
+**Na jakou věc to je?**
+
+
+**Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
