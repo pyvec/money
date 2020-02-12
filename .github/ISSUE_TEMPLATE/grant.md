@@ -14,7 +14,7 @@ about: Standardní proplacení výdajů.
 **Kdo jste?**
 
 
-**Kolik potřebujete? (klidně i jen odhad nebo rozmezí)**
+**Kolik potřebujete? (aspoň odhad nebo rozmezí)**
 
 
 **Na jakou věc to je?**

@@ -11,7 +11,29 @@ about: Pokud máš sponzora a přes Pyvec má jít smlouva a faktura.
   Otázky jsou ohraničeny hvězdičkami. Odpovědi napiš do místa pod ně.
 -->
 
-**Otázka 1**
+**Kdo jste?**
 
 
-**Otázka 2**
+**Na jakou věc to je?**
+
+
+**Proč? (čemu prospějeme, proč je to dobrý nápad, jaký to bude mít dopad?)**
+
+
+**Částka**
+
+
+**Fakturační údaje protistrany**
+
+
+**E-mail protistrany**
+
+
+**Je potřeba podepsat nějakou smlouvu? (sponzorskou, nájemní…)**
+
+
+
+<!--
+  Otočení sponzorských peněz nepodléhá schvalování výborem.
+  Žádost přímo zpracuje predseda/pokladník spolku.
+-->
