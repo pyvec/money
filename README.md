@@ -1,7 +1,7 @@
 <h1 align="center">💰 MONEY 💰</h1>
 <h3 align="center">Evidence grantů české Python komunity (<a href="#english">English ↓</a>)</h3>
 
-Na tomto místě můžeš požádat o finanční příspěvek na komunitní aktivity, které souvisí s [programovacím jazykem Python](https://python.cz). Žádost ti zabere pár minut. Pak už jen stačí, aby ji schválil [Pyvec](https://pyvec.org/), a peníze máš k dispozici.
+Na tomto místě můžeš požádat o proplacení výdajů na komunitní aktivity, které souvisí s [programovacím jazykem Python](https://python.cz). Žádost ti zabere pár minut. Pak už jen stačí, aby ji schválil [Pyvec](https://pyvec.org/).
 
 ---
 

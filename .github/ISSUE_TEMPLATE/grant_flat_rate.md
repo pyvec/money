@@ -1,5 +1,7 @@
 ---
 name: Paušální grant
+about: Proplacení více drobných výdajů při dlouhodobé činnosti
+
 ---
 
 
