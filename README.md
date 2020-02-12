@@ -13,11 +13,11 @@ Pokud organizuješ nebo vytváříš něco, co souvisí s [programovacím jazyke
 - [Grant](https://docs.pyvec.org/operations/support-money.html#granty)
 - [Paušální grant](https://docs.pyvec.org/operations/support-money.html#pausalni-granty)
 
-Zvaž, která možnost se nejvíce hodí pro tvůj případ a podle toho na [záložce „Issues“](https://github.com/pyvec/money/issues) vytvoř novou žádost o grant. Žádost je předvyplněná otázkami. Pod každou otázkou vyplň odpověď. Můžeš se inspirovat u [minulých grantů](https://github.com/pyvec/money/issues?q=is%3Aissue).
+Zvaž, která možnost se nejvíce hodí pro tvůj případ a vytvoř novou žádost o grant:
 
 <h3 align="center"><a href="https://github.com/pyvec/money/issues/new/choose">📋 Vytvořit žádost</a></h3>
 
-Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá a zahlasuje, zda grant přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
+Formulář na žádost je předvyplněný otázkami. Pod každou otázkou vyplň odpověď. Můžeš se inspirovat u [minulých grantů](https://github.com/pyvec/money/issues?q=is%3Aissue). Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá a zahlasuje, zda grant přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
 
 ---
 
