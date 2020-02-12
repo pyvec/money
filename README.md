@@ -1,13 +1,7 @@
 <h1 align="center">💰 MONEY 💰</h1>
 <h3 align="center">Evidence grantů české Python komunity (<a href="#english">English ↓</a>)</h3>
 
-Na tomto místě můžeš požádat o proplacení výdajů na komunitní aktivity, které souvisí s [programovacím jazykem Python](https://python.cz). Žádost ti zabere pár minut. Pak už jen stačí, aby ji schválil [Pyvec](https://pyvec.org/).
-
----
-
-#### Jak to funguje
-
-Pokud organizuješ nebo vytváříš něco, co souvisí s Pythonem, je velká pravděpodobnost, že ti [Pyvec](https://pyvec.org/) může pomoci, ať už finančně [nebo jinak](https://docs.pyvec.org/operations/support.html). Z hlediska finanční podpory Pyvec nabízí tři služby:
+Pokud organizuješ nebo vytváříš něco, co souvisí s [programovacím jazykem Python](https://python.cz), je velká pravděpodobnost, že ti [Pyvec](https://pyvec.org/) může pomoci, ať už finančně [nebo jinak](https://docs.pyvec.org/operations/support.html). Z hlediska finanční podpory Pyvec nabízí tři služby:
 
 - [Otočení sponzorských peněz](https://docs.pyvec.org/operations/support-money.html#otoceni-sponzorskych-penez)
 - [Grant](https://docs.pyvec.org/operations/support-money.html#granty)
