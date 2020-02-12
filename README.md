@@ -10,8 +10,8 @@ Na tomto místě můžeš požádat o finanční příspěvek na komunitní akti
 Pokud organizuješ nebo vytváříš něco, co souvisí s Pythonem, je velká pravděpodobnost, že ti [Pyvec](https://pyvec.org/) může pomoci, ať už finančně [nebo jinak](https://docs.pyvec.org/operations/support.html). Z hlediska finanční podpory Pyvec nabízí tři služby:
 
 - [Otočení sponzorských peněz](https://docs.pyvec.org/operations/support-money.html#otoceni-sponzorskych-penez)
-- [Granty](https://docs.pyvec.org/operations/support-money.html#granty)
-- [Paušální granty](https://docs.pyvec.org/operations/support-money.html#pausalni-granty)
+- [Grant](https://docs.pyvec.org/operations/support-money.html#granty)
+- [Paušální grant](https://docs.pyvec.org/operations/support-money.html#pausalni-granty)
 
 Zvaž, která možnost se nejvíce hodí pro tvůj případ a podle toho na [záložce „Issues“](https://github.com/pyvec/money/issues) vytvoř novou žádost o grant. Žádost je předvyplněná otázkami. Pod každou otázkou vyplň odpověď. Můžeš se inspirovat u [minulých grantů](https://github.com/pyvec/money/issues?q=is%3Aissue).
 
