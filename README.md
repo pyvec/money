@@ -17,7 +17,7 @@ Zvaž, která možnost se nejvíce hodí pro tvůj případ a vytvoř novou žá
 
 <h3 align="center"><a href="https://github.com/pyvec/money/issues/new/choose">📋 Vytvořit žádost</a></h3>
 
-Formulář na žádost je předvyplněný otázkami. Pod každou otázkou vyplň odpověď. Můžeš se inspirovat u [minulých grantů](https://github.com/pyvec/money/issues?q=is%3Aissue). Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá. Pokud jde o grant, tak zahlasuje, zda jej přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
+Formulář na žádost je předvyplněný otázkami. Pod každou otázkou vyplň odpověď. Můžeš se inspirovat u [minulých grantů](https://github.com/pyvec/money/issues?q=is%3Aissue). Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá. Pokud jde o grant, tak zahlasuje, zda jej přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců](https://docs.pyvec.org/operations/runbooks.html#jak-hlasovani) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
 
 ---
 
@@ -36,6 +36,6 @@ Původně jsme o finančních příspěvcích rozhodovali na organizátorském S
 
 #### What is this?
 
-This repository serves as a Czech Python user group financial grants record. People can file grant requests ([templated](https://github.com/pyvec/money/tree/master/.github/ISSUE_TEMPLATE) [issues](https://github.com/pyvec/money/issues)). Those get reviewed by the Czech Python user group nonprofit's board ([@pyvec/board](https://github.com/orgs/pyvec/teams/board), see [Pyvec](https://pyvec.org/en/)). Board votes about the issue and either approves or rejects the grant request. When we're done with the request, it's archived (issue gets closed).
+This is where [Pyvec](https://pyvec.org/en/), the nonprofit of the Czech Python user group, tracks grants. People can file grant requests in form of GitHub issues. The Pyvec board then votes about each grant to either approve or reject it. Processed grant requests get closed and archived.
 
-So far the system is optimized for Czech speakers. If you operate in the Czech Republic but you don't speak Czech, you're still able to reach the financial support. Please contact us at info@pyvec.org.
+As of now the system is optimized for Czech speakers, but if you operate in the Czech Republic, you're able to reach the financial support regardless your origin. Please contact us at info@pyvec.org.
