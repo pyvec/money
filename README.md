@@ -5,7 +5,7 @@ Na tomto místě můžeš požádat o finanční příspěvek na komunitní akti
 
 ---
 
-#### 🚀 Jak to funguje
+#### Jak to funguje
 
 Pokud organizuješ nebo vytváříš něco, co souvisí s Pythonem, je velká pravděpodobnost, že ti [Pyvec](https://pyvec.org/) může pomoci, ať už finančně [nebo jinak](https://docs.pyvec.org/operations/support.html). Z hlediska finanční podpory Pyvec nabízí tři služby:
 
@@ -15,10 +15,10 @@ Pokud organizuješ nebo vytváříš něco, co souvisí s Pythonem, je velká pr
 
 Zvaž, která možnost se nejvíce hodí pro tvůj případ a podle toho na [záložce „Issues“](https://github.com/pyvec/money/issues) vytvoř novou žádost o grant. Žádost je předvyplněná otázkami. Pod každou otázkou vyplň odpověď. Můžeš se inspirovat u [minulých grantů](https://github.com/pyvec/money/issues?q=is%3Aissue).
 
-Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá a zahlasuje, zda grant přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců nahoru 👍](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
+Výbor Pyvce se nejpozději do jednoho měsíce na tvou žádost podívá a zahlasuje, zda grant přidělí nebo ne. V komentářích pod žádostí může probíhat diskuze, doplňující dotazy, apod. Hlasování členů výboru probíhá v podobě [palců 👍👎](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) a řídí se [stanovami spolku](https://docs.pyvec.org/operations/bylaws.html#usnasenischopnost-vyboru). Jakmile je znám výsledek, „Issue“ dostane [odpovídající nálepku](https://github.com/pyvec/money/labels). Ve chvíli, kdy je vše vyřešeno, měla by se žádost [uzamknout](https://help.github.com/en/github/building-a-strong-community/locking-conversations), aby zůstala jen pro čtení, a zavřít.
 
 
-#### 🤔 Proč?
+#### Proč?
 
 Původně jsme o finančních příspěvcích rozhodovali na organizátorském Slacku v kanálu [#money](https://app.slack.com/client/T12KEU0G4/C9E81JFS5). Tento systém by oproti tomu měl mít následující výhody:
 
@@ -30,7 +30,7 @@ Původně jsme o finančních příspěvcích rozhodovali na organizátorském S
 
 <a name="english"></a>
 
-#### 🌍 What is this?
+#### What is this?
 
 This repository serves as a Czech Python user group financial grants record. People can file grant requests ([templated](https://github.com/pyvec/money/tree/master/.github/ISSUE_TEMPLATE) [issues](https://github.com/pyvec/money/issues)). Those get reviewed by the Czech Python user group nonprofit's board ([@pyvec/board](https://github.com/orgs/pyvec/teams/board), see [Pyvec](https://pyvec.org/en/)). Board votes about the issue and either approves or rejects the grant request. When we're done with the request, it's archived (issue gets closed).
 
